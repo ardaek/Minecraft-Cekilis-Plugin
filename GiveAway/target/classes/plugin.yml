@@ -1,0 +1,10 @@
+name: GiveAwayAroks
+version: '1.0-SNAPSHOT'
+main: me.arec.giveawayaroks.GiveAwayAroks
+api-version: 1.17
+authors: [ Ar3c ]
+description: Giveaway Plugin for Aroks
+commands:
+  cekilis:
+    description: Cekilis
+    usage: /cekilis

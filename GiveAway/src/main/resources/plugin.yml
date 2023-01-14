@@ -1,0 +1,10 @@
+name: GiveAwayAr3c
+version: '${project.version}'
+main: me.arec.giveawayarec.GiveAwayArec
+api-version: 1.17
+authors: [ Ar3c ]
+description: Giveaway Plugin
+commands:
+  cekilis:
+    description: Cekilis
+    usage: /cekilis
